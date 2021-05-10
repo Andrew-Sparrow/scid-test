@@ -1,8 +1,8 @@
 {
-  "name": "cat-energy-17",
+  "name": "scid-test",
   "version": "17.0.0",
   "private": true,
-  "description": "Личный проект «Кэт энерджи» от HTML Academy",
+  "description": "SCID-TEST",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
     "autoprefixer": "9.5.x",
